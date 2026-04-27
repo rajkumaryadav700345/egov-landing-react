@@ -20,10 +20,10 @@ function Navbar() {
         </button>
         <div className="collapse navbar-collapse" id="nav">
           <ul className="navbar-nav ms-auto">
-            <li className="nav-item"><a className="nav-link" href="#">About Us</a></li>
-            <li className="nav-item"><a className="nav-link" href="#">Products</a></li>
-            <li className="nav-item"><a className="nav-link" href="#">Resources</a></li>
-            <li className="nav-item"><a className="nav-link" href="#">Contact</a></li>
+            <li className="nav-item"><a className="nav-link" href="/about">About Us</a></li>
+            <li className="nav-item"><a className="nav-link" href="/products">Products</a></li>
+            <li className="nav-item"><a className="nav-link" href="/resources">Resources</a></li>
+            <li className="nav-item"><a className="nav-link" href="/contact">Contact</a></li>
           </ul>
         </div>
       </div>
